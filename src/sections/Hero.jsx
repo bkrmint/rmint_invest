@@ -1,5 +1,5 @@
 import Button from '../components/Button';
-import { hero_anima_desktop } from '../assets/images';
+import { hero_anima_desktop, hero_anima_small, hero_anima_video } from '../assets/images';
 
 const Hero = () => {
   return (
@@ -20,7 +20,7 @@ const Hero = () => {
 
       <div className="relative flex flex-1 justify-center items-center max-lg:py-40 max-sm:max-h-dvh max-sm:pt-28 max-sm:pb-0 object-contain">
         <img
-          src={hero_anima_desktop}
+          src={hero_anima_small}
           alt="hero"
           width={412}
           height={576}
