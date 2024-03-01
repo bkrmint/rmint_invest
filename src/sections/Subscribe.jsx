@@ -7,7 +7,7 @@ const Subscribe = () => {
       Join our <span className="text-red font-kalam text-[32px]  ">exclusive</span> waitlist today
       </h2>
       <p className="text-gray leading-normal sm:w-1/2 text-center mt-4 mb-2">
-      Be the first to know about upcoming opportunities and token offers. Get early access reserved for RMINT community members.
+      Be the first to know about <span className="text-red font-bold">upcoming opportunities and token offers</span>. Get early access reserved for RMINT community members.
       </p>
       <p className="text-gray leading-normal sm:w-2/3 text-center mt-2 mb-6">
       Subscribe now and be at the forefront of innovation.
