@@ -4,7 +4,7 @@ const Innovation = () => {
   return (
    <section id="innovation" className="max-container">
    <div className="">
-    <h2 className="text-4xl text-gray font-publicsans font-bold max-sm:text-3xl text-center">
+    <h2 className="text-4xl text-gray font-publicsans font-bold max-sm:text-3xl text-center max-sm:leading-tight">
       Innovation in Capital Returns
     </h2>
     <div className="flex max-sm:flex-col  flex-row gap-10 items-center justify-center padding-y">
