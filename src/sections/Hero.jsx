@@ -11,7 +11,7 @@ const Hero = () => {
           Invest in <span className='font-kalam text-red xl:text-7xl lg:text-4xl md:text-4xl max-sm:text-[42px]'>new</span><br /> 
           Restaurant <span className='font-kalam text-red xl:text-7xl lg:text-4xl md:text-4xl max-sm:text-[42px]'>chain</span>
         </h1>
-        <p className="font-publicsans text-gray text-sm sm:text-xl leading-8 mt-6 mb-8 sm:max-w-sm font-bold">
+        <p className="font-publicsans text-gray text-sm sm:text-xl mt-6 mb-8 sm:max-w-sm font-bold">
           Add a new asset class to your portfolio of alternative investments.
         </p>
         <Button btnText="Invest" />
